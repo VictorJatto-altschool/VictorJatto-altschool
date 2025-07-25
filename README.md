@@ -24,15 +24,6 @@ I build backend systems, create content around tech, and contribute to open-sour
 - 🤝 Open to: Internships, Open-source collabs, Junior Backend or Security roles  
 - 📫 Contact me via [Email](mailto:jattovictor32@gmail.com) or [visit my site](https://victorjatto.cv)
 
----
-
-### 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔧 AI YouTube Generator](https://github.com/VictorJatto-altschool) | A full-stack automated motivational video pipeline using `n8n`, `Hugging Face`, `FFmpeg`, and `TTS`. |
-| [🛡️ CyberSec Scanner](https://github.com/VictorJatto-altschool) | Python CLI tool to audit websites and local environments for common security risks. |
-| [📽️ Motiv-AI-tion Channel](https://www.youtube.com/@motiv-AI-tion-001) | YouTube channel that publishes short, AI-powered motivational videos with TTS narration. |
 
 ---
 
