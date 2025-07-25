@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/VictorJatto-altschool/VictorJatto-altschool/blob/main/banner.png" alt="Victor Jatto Banner" style="border-radius: 12px;" />
+</p>
+
+
 <h1 align="center">👋🏾 Hello there, welcome to my GitHub!</h1>
 
 <p align="center">
