@@ -18,7 +18,7 @@
 
 Hi! I'm **Victor Jatto Akachukwu**, a passionate **Python Backend Engineer** currently studying at [AltSchool Africa](https://altschoolafrica.com) 👨🏾‍🎓 (Class of 2025).
 
-I build backend systems, create content around tech, and contribute to open-source. I'm also interested in cybersecurity and automation. I document my learning journey, tech tools, and motivational AI projects on my socials.
+I build backend systems, create content around tech, and contribute to open-source. I'm also an expert in cybersecurity and automation. I document my learning journey, tech tools, and motivational AI projects on my socials.
 
 - 🧠 Currently learning: Python, JavaScript, Cybersecurity  
 - 🤝 Open to: Internships, Open-source collabs, Junior Backend or Security roles  
@@ -46,7 +46,7 @@ I build backend systems, create content around tech, and contribute to open-sour
 ---
 
 ### 🧠 Fun Fact  
-> I believe learning never stops. From backend engineering to cybersecurity to AI-powered storytelling — I'm exploring the best of tech and using it to **solve real-world problems**.
+> I believe learning never stops. From backend engineering to cybersecurity to AI-powered systems— I'm exploring the best of tech and using it to **solve real-world problems**.
 
 ---
 
