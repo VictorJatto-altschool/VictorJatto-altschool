@@ -14,17 +14,9 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=python&logoColor=white" />
   <a href="https://victorjatto.cv"><img src="https://img.shields.io/badge/-victorjatto.cv-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <p align="center">
-  <a href="https://victorjatto.cv">
-    <img src="https://img.shields.io/badge/-victorjatto.cv-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portfolio Badge" />
-  </a>
   <a href="https://www.linkedin.com/in/victor-akachukwu-jatto-54878330a">
     <img src="https://img.shields.io/badge/-VictorJatto-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
-  <a href="https://x.com/jattovictor32">
-    <img src="https://img.shields.io/badge/-@jattovictor-1ca0f1?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter) Badge" />
-  </a>
-</p>
   <a href="https://x.com/jattovictor32"><img src="https://img.shields.io/badge/-@jattovictor-1ca0f1?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
@@ -57,7 +49,7 @@ I build backend systems, create content around tech, and contribute to open-sour
 - 🧑🏾‍💼 [Resume](https://victorjatto.cv)
 - 💬 [X (Twitter)](https://x.com/jattovictor32)
 - 📘 [Facebook](https://web.facebook.com/victechHub001)
-- 👔 [LinkedIn](https://https://www.linkedin.com/in/victor-akachukwu-jatto-54878330a)
+- 👔 [LinkedIn](https://www.linkedin.com/in/victor-akachukwu-jatto-54878330a)
 
 ---
 
