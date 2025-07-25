@@ -1,3 +1,9 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+
+
+
 <p align="center">
   <img src="https://github.com/VictorJatto-altschool/VictorJatto-altschool/blob/main/banner.png" alt="Victor Jatto Banner" style="border-radius: 24px;" />
 </p>
